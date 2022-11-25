@@ -10,6 +10,14 @@
             "logoURI":"https://coin.top/production/logo/SUNLogo.178d4636.png"
         },
         {
+            "symbol": "AGR",
+            "name": "AGRO8",
+            "address": "TU6J4rKbTR232W2drHi1EQswiuswkdo9pu",
+            "chainId": 1,
+            "decimals": 2,
+            "logoURI": "https://static.tronscan.org/production/upload/logo/new/1004900.jpeg"
+        },
+        {
             "symbol":"BTC",
             "address":"TN3W4H6rK2ce4vX9YnFQHwKENnHjoxb3m9",
             "chainId":1,
